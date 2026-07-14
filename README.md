@@ -4,7 +4,7 @@ An F1 visual analytics web app built for CS661 (Big Data Visual Analytics). The 
 
 **Live site:** https://cs-661-f1-strat-viz.vercel.app/
 **Data:** https://huggingface.co/datasets/Aman2406/f1-visual-analytics
-**Repo:** https://github.com/DakshSaijwal/CS661-F1-StratViz
+**Repo:** https://github.com/DakshSaijwal/CS661
 
 ---
 
